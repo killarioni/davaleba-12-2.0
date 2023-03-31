@@ -1,0 +1,44 @@
+*{
+    box-sizing: border-box;
+
+}
+
+.container{
+    background-color: #FAF4EF;
+    width: 300px;
+    height: 300px;
+    margin: 200px;
+    margin: 0 auto;
+    border-bottom-left-radius: 50px;
+}
+
+.chair{
+    width: 200px;
+    height: 200px;
+    margin-left: 40px;
+    margin-top: 40px;
+}
+
+.card{
+
+    width: 200px;
+    margin-top: 50px;   
+    margin-left: 15px;    
+}
+
+.h{
+    width: 280px;
+    height: 54px;
+    margin-top: 180px;
+    margin-left: 25px;
+    font-size: 36px;
+}
+
+p{
+    width: 177px;
+    height: 40px;
+    margin-left: 25px;
+    margin-top: 20px;
+    font-size: 24px;
+}
+
